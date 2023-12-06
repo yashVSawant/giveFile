@@ -1,0 +1,30 @@
+body{
+    background-color: blueviolet;
+}
+#main{
+    display: flex;
+    flex-direction: row;
+    background-color: aquamarine;
+}
+#addPost{
+    width: 200px;
+    background-color: antiquewhite;
+}
+#getPosts{
+    width: 60%;
+    background-color:brown;
+}
+.newBlog{
+    background-color: aqua;
+}
+p{
+    background-color: red;
+}
+.comment{
+    display: flex;
+    justify-content: space-between;
+}
+.delComment{
+    width: 2%;
+    height: 20px;
+}
